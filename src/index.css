@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-glow-O {
+    text-shadow: 0 0 10px #FF4A6E;
+  }
+
+  .text-glow-X {
+    text-shadow: 0 0 10px #23b85f;
+  }
