@@ -3,7 +3,7 @@ import { User2, Users2 } from "lucide-react";
 import { Smile, Flame } from "lucide-react";
 import axios from 'axios';
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "https://tictactoe-backend-2vob.onrender.com";
 
 function App() {
   const [board, setBoard] = useState(Array(16).fill(""));
